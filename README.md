@@ -3,6 +3,12 @@
 Project Background
 >Aviation and technology have always fascinated me, ever since I was a child. I've always been fascinated by aircraft and airspace, as well as how organised and systematic the entire aviation industry is. Each step protects the plane's and passengers' safety. One of the various safety measures used in aviation is the use of exterior lighting on an aircraft. 
 
+📸 by me!
+
+<p align="center">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aditya_ANA787.png">
+</p>
+
 # Exterior lights on an Aircraft.
 There are various lights on the exterior of an aircrafts, each having its unique task. Some of the important lights are as follows:
 > * LANDING/TAKEOFF LIGHTS- These lights are used while the aircraft is taking off or while landing. They are very high intensity lights which help the pilot of an aircraft have a better visibility of the runway or any obstacles.
