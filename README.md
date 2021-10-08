@@ -35,9 +35,9 @@ The Aviation and Electronics fanatic in me had an idea to design a PCB that depi
 
 The PCB consists of 11 LEDs in total:
 
-> 4 LANDING/TAKEOFF lights (2 on each side to depict high intensity)
-> 3 NAVIGATION lights (1 Left, 1 Right, 1 Tail)
-> 2 STROBE lights (1 Left, 1 Right)
-> 1 BEACON light (TOP)
-> 1 TAXI light (NOSE)
+> * 4 LANDING/TAKEOFF lights (2 on each side to depict high intensity)
+> * 3 NAVIGATION lights (1 Left, 1 Right, 1 Tail)
+> * 2 STROBE lights (1 Left, 1 Right)
+> * 1 BEACON light (TOP)
+> * 1 TAXI light (NOSE)
 
