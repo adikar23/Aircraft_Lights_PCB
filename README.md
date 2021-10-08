@@ -74,6 +74,6 @@ I designed the PCB using EasyEDA. After verifying the circuit by doing a quick p
 </p>
 
 # Look at the LEDs Flashing!!
-<p align="center">
-<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCB_Flashing_Video.mov">
-</p>
+
+![PCB_Flashing_Video](https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCB_Flashing_Video.gif)
+
