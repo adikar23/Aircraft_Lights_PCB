@@ -41,9 +41,7 @@ The PCB consists of 11 LEDs in total:
 > * 1 BEACON light (TOP)
 > * 1 TAXI light (NOSE)
 
-Just to have a similar experience, I put a slide switch to turn the TAXI light and the LANDING/TAKEOFF lights ON or OFF.
-
-For the flashing lights, I have used IC555 and IC4017.
+I added slide switches to turn the TAXI light and the LANDING/TAKEOFF lights ON or OFF. For the flashing lights, I have used IC555 and IC4017. The circuit can be powered by a 9V battery.
 
 I designed the PCB using EasyEDA. After verifying the circuit by doing a quick prototype testing, I ordered the PCBs from ALLPCB.
 
@@ -65,4 +63,17 @@ I designed the PCB using EasyEDA. After verifying the circuit by doing a quick p
 <img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_Lights_PCB_3D.png">
 </p>
 
-# Few looks of the PCB
+# Few looks at the actual PCB
+
+<p align="center">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_Lights_PCB_photo.jpg">
+</p>
+
+<p align="center">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCB_Lights.jpg">
+</p>
+
+# Look at the LEDs Flashing!!
+<p align="center">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCB_Flashing_Video.mov">
+</p>
