@@ -31,5 +31,13 @@ Image - aviationIO
 
 # About the Aircraft_Lights_PCB
 
-The Aviation and Electronics fanatic in me had an idea to design a PCB that depicted the exterior lights of an aircraft. I decided to make an Aircraft shaped PCB to demonstrate the generalised placement of lights on an aircraft. The PCB consists of 11 LEDs. 
+The Aviation and Electronics fanatic in me had an idea to design a PCB that depicted the exterior lights of an aircraft. I decided to make an Aircraft shaped PCB to demonstrate the generalised placement of lights on an aircraft.
+
+The PCB consists of 11 LEDs in total:
+
+> 4 LANDING/TAKEOFF lights (2 on each side to depict high intensity)
+> 3 NAVIGATION lights (1 Left, 1 Right, 1 Tail)
+> 2 STROBE lights (1 Left, 1 Right)
+> 1 BEACON light (TOP)
+> 1 TAXI light (NOSE)
 
