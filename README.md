@@ -31,7 +31,7 @@ Image - aviationIO
 
 # About the Aircraft_Lights_PCB
 
-The Aviation and Electronics fanatic in me had an idea to design a PCB that depicted the exterior lights of an aircraft. I decided to make an Aircraft shaped PCB to demonstrate the generalised placement of lights on an aircraft.
+The Aviation and Electronics fanatic in me had an idea to design a PCB that depicted the exterior lights of an aircraft. I decided to make an Aircraft shaped PCB to demonstrate the generalised placement of lights on an aircraft. The **USELESS DESIGN COMPETITION** held by **ALLPCB** inspired me to pursue my idea, implement it, and participate in the competition.
 
 The PCB consists of 11 LEDs in total:
 
@@ -43,7 +43,7 @@ The PCB consists of 11 LEDs in total:
 
 I added slide switches to turn the TAXI light and the LANDING/TAKEOFF lights ON or OFF. For the flashing lights, I have used IC555 and IC4017. The circuit can be powered by a 9V battery.
 
-I designed the PCB using EasyEDA. After verifying the circuit by doing a quick prototype testing, I ordered the PCBs from ALLPCB.
+I designed the PCB using EasyEDA. After verifying the circuit by doing a quick prototype testing, I ordered the PCBs from ALLPCB. ALLPCB is a very well known PCB manufacturer who provides quality PCBs at low cost.
 
 # Circuit Schematic
 
