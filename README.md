@@ -70,7 +70,7 @@ I designed the PCB using EasyEDA. After verifying the circuit by doing a quick p
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCB_Lights.jpg">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_Lights_PCB_front.jpg">
 </p>
 
 # Look at the LEDs Flashing!!
