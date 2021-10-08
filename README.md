@@ -18,11 +18,15 @@ There are various lights on the exterior of an aircrafts, each having its unique
 >   * **LEFT NAV LIGHT**- These lights are placed on the tip of the left wing. They generally are RED coloured.
 >   * **RIGHT NAV LIGHT**- These lights are placed on the tip of the right wing. They generally are GREEN coloured.
 >   * **TAIL NAV LIGHT**- These lights are placed near the tail of the aircraft. They generally are WHITE coloured.
-> * **STROBE LIGHTS**-
->   * **LEFT STROBE LIGHT**-
->   * **RIGHT STROBE LIGHT**-
->   * **TAIL STROBE LIGHT**-
-> * **BEACON LIGHT**- This light is helpful for any observer on the ground to identify that the aircraft has its engine up and rolling. It makes the observer causious to not get close to the aircraft. It is a RED coloured flashing light, generally located on the bottom or the top of the aircraft's fuselage.
+> * **STROBE LIGHTS**- These lights are used when the plane has enterned an active runway for takeoff or even while crossing the runway. This makes other planes aware about the presence of an aircraft on the runway. As these lights are flashing constantly, they are also used midair which makes it easier to get attention of surrounding planes for safety.
+>   * **LEFT STROBE LIGHT**- This light is a Flashing WHITE light placed on the left wing.
+>   * **RIGHT STROBE LIGHT**- This light is a Flashing WHITE light placed on the right wing.
+>   * **TAIL STROBE LIGHT**- This light is a Flashing WHITE light placed on the tail of the aircraft.
+> * **BEACON LIGHT**- This light is helpful for any observer on the ground to identify that the aircraft has its engine up and rolling. It makes the observer causious to not get close to the aircraft. It is a RED coloured flashing light, generally located on the top or the bottom of the aircraft's fuselage.
+
+<p align="center">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft-lighting-aviationIO.jpg">
+</p>
 
 # About the Aircraft_Lights_PCB
 
