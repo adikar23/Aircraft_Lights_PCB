@@ -22,7 +22,7 @@ There are various lights on the exterior of an aircrafts, each having its unique
 >   * **LEFT STROBE LIGHT**-
 >   * **RIGHT STROBE LIGHT**-
 >   * **TAIL STROBE LIGHT**-
-> * **BEACON LIGHT**-
+> * **BEACON LIGHT**- These lights are helpful for any observer on the ground to identify that the aircraft has its engine up and rolling. This makes the observer causious to not get close to the aircraft. They are RED coloured flashing lights, generally located on the bottom or the top of the aircraft's fuselage.
 
 # About the Aircraft_Lights_PCB
 
