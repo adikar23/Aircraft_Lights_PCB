@@ -1,7 +1,7 @@
 # Aircraft_Lights_PCB
 
 Project Background
->Aviation and technology have always fascinated me, ever since I was a child. I've always been fascinated by aircraft and airspace, as well as how organised and systematic the entire aviation industry is. Each step protects the plane's and passengers' safety. One of the various safety measures used in aviation is the use of exterior lighting on an aircraft. 
+>Aviation and technology have always fascinated me, ever since I was a child. I've always been fascinated by aircraft and airspace, as well as how organised and systematic the entire aviation industry is. Each step ensures the plane's and passengers' safety. One of the various safety measures used in aviation is the use of exterior lighting on an aircraft. 
 
 📸 by me!
 
