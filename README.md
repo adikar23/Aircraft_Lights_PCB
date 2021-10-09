@@ -10,7 +10,7 @@ Project Background
 </p>
 
 # Exterior lights on an Aircraft.
-There are various lights on the exterior of an aircrafts, each having its unique task. Some of the important lights are as follows:
+There are various lights on the exterior of an aircraft, each having its unique task. Some of the important lights are as follows:
 > * **LANDING/TAKEOFF LIGHTS**- These lights are used while the aircraft is taking off or while landing. They are very high intensity lights which help the pilot of an aircraft have a better visibility of the runway or any obstacles.
 > * **TAXI LIGHTS**- These lights help pilots have a better visibility at the taxiways of an airport while moving towards the apron after landing or moving towards the runway for takeoff.
 > * **RUNWAY TURNOFF LIGHTS**- These lights help pilot identify the runway exit points after landing. The lights are pointing towards side of the runway which makes it easier to spot an exit.
