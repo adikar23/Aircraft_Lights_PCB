@@ -41,7 +41,7 @@ The PCB consists of 11 LEDs in total:
 > * 1 BEACON light (TOP)
 > * 1 TAXI light (NOSE)
 
-I added slide switches to turn the TAXI light and the LANDING/TAKEOFF lights ON or OFF. For the flashing lights, I have used timer IC555 and Decade counter IC4017. The circuit can be powered by a 9V battery.
+I added slide switches to turn the TAXI light and the LANDING/TAKEOFF lights ON or OFF. For the flashing lights, I have used timer IC555 and Decade counter IC4017. The circuit can be powered by a 9V battery. At the tail part of the PCB, I added a small notch to add a Vertical Stabilizer(Fin) to look cool(XD).
 
 I designed the PCB using EasyEDA. After verifying the circuit by doing a quick prototype testing, I ordered the PCBs from ALLPCB. ALLPCB is a very well known PCB manufacturer who provides quality PCBs at low cost.
 
