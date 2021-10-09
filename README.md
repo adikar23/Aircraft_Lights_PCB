@@ -54,13 +54,13 @@ I designed the PCB using EasyEDA. After verifying the circuit by doing a quick p
 # PCB Design
 
 <p align="center">
-<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCBdesign_Aircraft_Lights_PCB.png">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCBdesign_Aircraft_Lights_PCB.png" width = "600" height = "600">
 </p>
 
 # 3D View
 
 <p align="center">
-<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_Lights_PCB_3D.png">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_Lights_PCB_3D.png" width = "700" height = "540">
 </p>
 
 # Few looks at the actual PCB
