@@ -73,6 +73,12 @@ I designed the PCB using EasyEDA. After verifying the circuit by doing a quick p
 <img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_Lights_PCB_front.jpg">
 </p>
 
+Vertical Stabilizer(Fin) made from Coroplast sheet
+
+<p align="center">
+<img align="center" src="https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/Aircraft_VS_Photo.jpg">
+</p>
+
 # Look at the LEDs Flashing!!
 
 ![PCB_Flashing_Video](https://github.com/adikar23/Aircraft_Lights_PCB/blob/main/PCB_Flashing_Video.gif)
